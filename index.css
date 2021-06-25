@@ -1,0 +1,61 @@
+body{
+
+background-color: #D5BAA0;
+
+
+}
+
+
+
+.adres{
+	font-size: 50px;
+}
+
+
+	
+.kot{
+	text-align: center;
+}
+
+
+.insta{
+	width: 15%;
+	margin-left: 80%;
+}
+.logo{
+		width: 20%;
+	margin-left: 35%;
+}
+
+
+img:hover{
+	border:2px solid blue;
+	background: #3D250F;
+
+
+}
+
+
+.kote{
+	width: 20%;
+	height: 200px;
+	margin:5%;
+	display:inline-block;
+}
+.kotes{
+	width: 90%;
+	margin-left: 5%;
+}
+
+
+
+.w{
+
+	text-align: center;
+}
+
+
+.q{
+
+	font-size: 40px;
+}
